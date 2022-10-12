@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DeProfessor00
-- 👀 I’m interested in Web Development , Discord Servers & Bots.
+- 👋 Hi, I’m @DeProfessor
+- 👀 I’m interested in Web Development , Programming, Discord Servers & Bots.
 - 🌱 I’m currently learning Python for Bots, Backend Server.
 - 💞️ I’m looking to collaborate on Bot Development Projects.
 
